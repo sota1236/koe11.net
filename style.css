@@ -1,0 +1,21 @@
+html, body{
+  margin:0px;
+  padding:0px;
+  background: #000;
+  position:relative;
+}
+canvas{
+  background: #000;
+  margin: 0 0 0 -300px;
+  position:absolute;
+  top:50%;
+  left:50%;
+}
+#info{
+  position:absolute;
+  top:5px;
+  left:5px;
+  color:#fff;
+  font-size:small;
+}
+
